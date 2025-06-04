@@ -1,0 +1,2 @@
+[gui_scripts]
+rad_viewer = radar_scenes.viewer:main
